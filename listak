@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bódi Szabolcs</h1>
+<h2>Listák</h2>
+
+<p>A kedvenc tantárgyaim:</p>
+<ol>
+  <li>Matek</li>
+  <li>Törti</li>
+  <li>Irodalom</li>
+</ol>
+
+<p>Kedvenc hobiaim</p>
+<ul start="50">
+  <li>számítógépezés</li>
+  <li>tanulás</li>
+  <li>biciklizés</li>
+</ul>
+ 
+</body>
+</html>
